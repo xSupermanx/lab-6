@@ -2,6 +2,6 @@ Web Browser     Car Brands        OS
 
 Chrome            Ford          Android
 
-Edge               GM           
+Edge               GM           tizen
 
 Safari           Toyota          IOS
